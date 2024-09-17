@@ -1,2 +1,2 @@
-# doom2-the-tower
-DOOM2 The Tower
+# DOOM2 Haunted House
+A house haunted by demons instead of ghosts.
