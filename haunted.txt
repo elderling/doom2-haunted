@@ -33,7 +33,7 @@ Demos Replaced          : None
 * Construction *
 
 Base                    : New level from scratch
-Build Time              : Weeks
+Build Time              : 3 Months
 Editor(s) used          : Ultimate Doom Builder, SLADE3
 Known Bugs              : 
 May Not Run With        :
